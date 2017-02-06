@@ -1,0 +1,6 @@
+c:\users\sravan\documents\visual studio 2015\Projects\PoemGenerator\PoemGenerator\bin\Debug\PoemGenerator.exe.config
+c:\users\sravan\documents\visual studio 2015\Projects\PoemGenerator\PoemGenerator\obj\Debug\PoemGenerator.csprojResolveAssemblyReference.cache
+c:\users\sravan\documents\visual studio 2015\Projects\PoemGenerator\PoemGenerator\bin\Debug\PoemGenerator.exe
+c:\users\sravan\documents\visual studio 2015\Projects\PoemGenerator\PoemGenerator\bin\Debug\PoemGenerator.pdb
+c:\users\sravan\documents\visual studio 2015\Projects\PoemGenerator\PoemGenerator\obj\Debug\PoemGenerator.exe
+c:\users\sravan\documents\visual studio 2015\Projects\PoemGenerator\PoemGenerator\obj\Debug\PoemGenerator.pdb
